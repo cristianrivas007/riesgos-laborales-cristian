@@ -29,7 +29,7 @@ function App() {
                 <p className="desc">
                   Por la participación de Rivas Betancourt Cristian Paul
                   en el curso de <strong>Seguridad industrial: Prevención de riesgos laborales, rutas de evacuación y protocolos de emergencias</strong>, realizado
-                  el miércoles 19 de enero de 2026.
+                  el 19 de enero de 2026.
                 </p>
               </div>
             </div>
