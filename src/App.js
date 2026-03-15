@@ -24,7 +24,7 @@ function App() {
               <div className="info-block">
                 <p className="completed-by">Certificado de</p>
                 <h1 className="name">RIVAS BETANCOURT<br />CRISTIAN PAUL</h1>
-                <p className="meta">Fecha: 25-02-2026</p>
+                <p className="meta">Fecha: 19-01-2026</p>
                 <p className="meta bold">Con una duración de 2 horas</p>
                 <p className="desc">
                   Por la participación de Rivas Betancourt Cristian Paul
